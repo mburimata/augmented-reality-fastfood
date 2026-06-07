@@ -1,14 +1,11 @@
-# Interactive 3D Fastfood Menu App (Augmented Reality)
+# Interactive 3D Fastfood App (Augmented Reality)
 
-An interactive Fastfood Menu application built using **Unity Engine** and **Vuforia SDK**. This project is designed to project highly detailed 3D food models onto real-world paper menus or image markers using a smartphone camera.
+An interactive Fastfood application built using **Unity Engine** and **Vuforia SDK**. This project is designed to project highly detailed 3D food models onto real-world paper menus or image markers using a smartphone camera.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86e26516-de2f-40b0-bbac-73edf089a457" width="15%" alt="1" />
-  <img src="https://github.com/user-attachments/assets/4a957604-f1db-4166-86e8-2892a35bf0cf" width="15%" alt="2" />
-  <img src="https://github.com/user-attachments/assets/e1032206-371e-4061-9112-db6c9d23b061" width="15%" alt="3" />
+  <img src="https://github.com/user-attachments/assets/86e26516-de2f-40b0-bbac-73edf089a457" width="20%" alt="1" />
+  <img src="https://github.com/user-attachments/assets/4a957604-f1db-4166-86e8-2892a35bf0cf" width="20%" alt="2" />
+  <img src="https://github.com/user-attachments/assets/e1032206-371e-4061-9112-db6c9d23b061" width="20%" alt="3" />
 </p>
----
-
-
 
 ## 🚀 Key Features
 * **Real-time 3D Projection:** Visualizes premium 3D food models instantly when the camera detects the designated image target.
