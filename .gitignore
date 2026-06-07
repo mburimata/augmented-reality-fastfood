@@ -1,0 +1,12 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Cc]ache/
+/[Ll]ogs/
+/[Uu]serSettings/
+*.csproj
+*.sln
+*.unitypackage
+.DS_Store
