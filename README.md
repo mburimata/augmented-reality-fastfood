@@ -47,3 +47,21 @@ The pre-configured local Image Target tracking files (.dat and .xml) are securel
 - In Unity Editor, go to File > Build Settings.
 - Switch the platform to Android or iOS.
 - Click Build and Run while your smartphone is connected via USB debugging.
+
+---
+
+## ⚠️ Troubleshooting & Common Issues (For Beginners)
+
+If you encounter errors while running the project, please check these common fixes:
+
+### 1. Unity Version Mismatch Error
+* **Issue:** Missing scripts, compilation errors, or broken UI elements upon opening the project.
+* **Fix:** Ensure you open this project using a Unity LTS version (preferably Unity 2022.3 LTS or newer). Opening it in an older version (e.g., Unity 2020) will corrupt the package dependencies.
+
+### 2. AR Camera is Blank / Black Screen
+* **Issue:** The camera opens on your smartphone, but it does not track the image target or displays a black screen.
+* **Fix:** Vuforia requires an active Developer License Key. If the license embedded in this project has expired, you need to go to the **Vuforia Developer Portal**, generate a free Development Key, and paste it into your Unity Project via `Window > Vuforia Configuration > App License Key`.
+
+### 3. Build Button is Greyed Out / Build Fails
+* **Issue:** You cannot click "Build and Run" or the console shows Android SDK/NDK errors.
+* **Fix:** Open **Unity Hub**, go to the **Installs** tab, click the gear icon next to your Unity Editor version, select **Add Modules**, and ensure that **Android Build Support** (along with Android SDK & NDK Tools and OpenJDK) is fully checked and installed.
