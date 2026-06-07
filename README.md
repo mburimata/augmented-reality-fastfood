@@ -1,10 +1,14 @@
-
-<img width="720" height="1600" alt="WhatsApp Image 2026-06-07 at 21 36 42" src="https://github.com/user-attachments/assets/ba57fb8f-ad94-4d69-b17a-dad3cb6dc86d" />
 # Interactive 3D Fastfood Menu App (Augmented Reality)
 
 An interactive Fastfood Menu application built using **Unity Engine** and **Vuforia SDK**. This project is designed to project highly detailed 3D food models onto real-world paper menus or image markers using a smartphone camera.
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86e26516-de2f-40b0-bbac-73edf089a457" width="30%" alt="1" />
+  <img src="https://github.com/user-attachments/assets/4a957604-f1db-4166-86e8-2892a35bf0cf" width="30%" alt="2" />
+  <img src="https://github.com/user-attachments/assets/e1032206-371e-4061-9112-db6c9d23b061" width="30%" alt="3" />
+</p>
 ---
+
+
 
 ## 🚀 Key Features
 * **Real-time 3D Projection:** Visualizes premium 3D food models instantly when the camera detects the designated image target.
@@ -46,9 +50,3 @@ The pre-configured local Image Target tracking files (.dat and .xml) are securel
 - In Unity Editor, go to File > Build Settings.
 - Switch the platform to Android or iOS.
 - Click Build and Run while your smartphone is connected via USB debugging.
-
-<img width="720" height="1600" alt="j" src="https://github.com/user-attachments/assets/eea53df5-7af8-4b04-935b-09a1ae4b1f23" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-06-07 at 21 36 42" src="https://github.com/user-attachments/assets/fbe92b58-b6f1-4f73-b9d3-9d74853f8ada" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-06-07 at 21 36 41" src="https://github.com/user-attachments/assets/fa81690a-cfde-4be4-a536-60be5b341aad" />
-
-
